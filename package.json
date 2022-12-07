@@ -1,0 +1,8 @@
+{
+  "name": "MVC-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/comfortably-numb/MVC-demo.git",
+  "author": "Madworld311 <shintarou.chou@gmail.com>",
+  "license": "MIT"
+}
